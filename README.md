@@ -69,7 +69,7 @@ No tracking. No clutter. No wasted resources.
 ### Clone the repository
 
 ```bash id="p2v1ab"
-git clone https://github.com/HarinarayananBS
+git clone https://github.com/HarinarayananBS/nex-browser.git
 cd nex-browser
 ```
 
